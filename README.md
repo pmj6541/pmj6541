@@ -1,5 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pmj6541&count_private=true&show_icons=true&theme=tokyonight )
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmj6541&count_private=true)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
