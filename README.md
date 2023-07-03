@@ -1,4 +1,4 @@
-![pmj6541's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmj6541&count_private=false&show_icons=true&theme=tokyonight)
+![pmj6541's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmj6541&count_private=true&show_icons=true&theme=tokyonight)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
