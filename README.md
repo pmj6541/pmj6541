@@ -1,4 +1,10 @@
-![pmj6541's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmj6541&count_private=true&show_icons=true)
+## Hey 👋, This is 박민준
+[![Gmail Badge](https://img.shields.io/badge/-alswns6541@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alswns6541@gmail.com)](mailto:alswns6541@gmail.com) [![Github Badge](https://img.shields.io/badge/-pmj6541-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pmj6541/)](https://www.github.com/pmj6541/) [![Twitter Badge](https://img.shields.io/badge/-minjun6541-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/minjun6541/)](https://www.twitter.com/minjun6541/) <p align='left'>백엔드 개발자 입니다. </p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=pmj6541 alt=pmj6541 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=pmj6541&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/pmj6541/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmj6541&layout=compact)](https://github.com/pmj6541/github-readme-stats)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
