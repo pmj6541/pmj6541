@@ -1,5 +1,5 @@
 ## Hey 👋, This is 박민준
-[![Gmail Badge](https://img.shields.io/badge/-alswns6541@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alswns6541@gmail.com)](mailto:alswns6541@gmail.com) [![Github Badge](https://img.shields.io/badge/-pmj6541-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pmj6541/)](https://www.github.com/pmj6541/) [![Instagram Badge](https://img.shields.io/badge/-minjun6541-00acee?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/minjun6541/)](https://www.twitter.com/minjun6541/) <p align='left'>백엔드 개발자 입니다. </p>
+[![Gmail Badge](https://img.shields.io/badge/-alswns6541@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alswns6541@gmail.com)](mailto:alswns6541@gmail.com) [![Github Badge](https://img.shields.io/badge/-pmj6541-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pmj6541/)](https://www.github.com/pmj6541/)<p align='left'>백엔드 개발자 입니다. </p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=pmj6541 alt=pmj6541 /> </p>
 
